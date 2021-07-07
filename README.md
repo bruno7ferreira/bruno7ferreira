@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bruno7ferreira
 - 👀 I’m interested in Java...
 - 🌱 I’m currently learning Java,Git,Spring,Hibernate and Sql
-- 💞️ I’m looking to collaborate on study in java
 - 📫 How to reach me b.rogerio2007@gmail.com
 
 <!---
